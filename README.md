@@ -1,0 +1,2 @@
+# wowmacros
+Macros para WoW
