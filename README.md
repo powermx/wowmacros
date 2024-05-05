@@ -1,4 +1,6 @@
 ## Macros para WoW
+[![](https://github.com/powermx/badvpn/raw/master/pwrmx.jpg)](https://github.com/powermx/badvpn/raw/master/pwrmx.jpg "BadVPN - PowerMX")
+
 >Lista de Macros para WoW
 
 -Macro para borrar grises:
