@@ -1,5 +1,5 @@
-## wowmacros
-Macros para WoW
+## Macros para WoW
+>Lista de Macros para WoW
 
 -Macro para borrar grises:
 ```
@@ -29,6 +29,11 @@ Macros para WoW
 - Macro para alejar Camara
 ```
 /console CameraDistanceMaxFactor 4
+```
+
+- Macro para desbuggear Recount
+```
+/run local f = CreateFrame("frame",nil, UIParent); f:SetScript("OnUpdate", CombatLogClearEntries);
 ```
 
 - Macro para saber coordenadas
