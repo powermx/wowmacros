@@ -1,5 +1,5 @@
 ## Macros para WoW
-[![](https://github.com/powermx/badvpn/raw/master/pwrmx.jpg)](https://github.com/powermx/badvpn/raw/master/pwrmx.jpg "BadVPN - PowerMX")
+[![](https://raw.githubusercontent.com/powermx/wowmacros/main/Wrath-of-the-Lich-King.png)](https://raw.githubusercontent.com/powermx/wowmacros/main/Wrath-of-the-Lich-King.png "WoW")
 
 >Lista de Macros para WoW
 
